@@ -1,2 +1,5 @@
-# 2026-integrated-navigation-math
-Mathematical foundations, derivations, and code examples for Integrated Navigation and Positioning, 2026.
+# 2026年秋 组合导航与定位 数学基础部分参考代码
+
+本仓库用于整理组合导航课程中第二章数学基础部分的代码，计划包含最小二乘、卡尔曼滤波和因子图优化三个板块的代码。
+
+欢迎给位同学提出相关修改意见！
