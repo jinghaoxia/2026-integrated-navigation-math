@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142mm" height="73mm" viewBox="0 0 142 73">
+<rect width="142" height="73" fill="white"/>
+<line x1="34" y1="16" x2="75" y2="16" stroke="#202b36" stroke-width="0.28"/>
+<line x1="75" y1="16" x2="116" y2="16" stroke="#202b36" stroke-width="0.28"/>
+<line x1="34" y1="44" x2="75" y2="44" stroke="#202b36" stroke-width="0.28"/>
+<line x1="75" y1="44" x2="116" y2="44" stroke="#202b36" stroke-width="0.28"/>
+<line x1="34" y1="16" x2="34" y2="44" stroke="#202b36" stroke-width="0.28"/>
+<line x1="75" y1="16" x2="75" y2="44" stroke="#202b36" stroke-width="0.28"/>
+<line x1="116" y1="16" x2="116" y2="44" stroke="#202b36" stroke-width="0.28"/>
+<line x1="10" y1="16" x2="34" y2="16" stroke="#202b36" stroke-width="0.28"/>
+<rect x="48.5" y="10.0" width="12" height="12" fill="#eef5fa" stroke="#25496b" stroke-width="0.35"/>
+<text x="54.5" y="17.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">f</tspan><tspan baseline-shift="sub" font-size="2.646">0,1</tspan></text>
+<rect x="89.5" y="10.0" width="12" height="12" fill="#eef5fa" stroke="#25496b" stroke-width="0.35"/>
+<text x="95.5" y="17.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">f</tspan><tspan baseline-shift="sub" font-size="2.646">1,2</tspan></text>
+<rect x="48.5" y="38.0" width="12" height="12" fill="#eef5fa" stroke="#25496b" stroke-width="0.35"/>
+<text x="54.5" y="45.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">f</tspan><tspan baseline-shift="sub" font-size="2.646">49,50</tspan></text>
+<rect x="89.5" y="38.0" width="12" height="12" fill="#eef5fa" stroke="#25496b" stroke-width="0.35"/>
+<text x="95.5" y="45.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">f</tspan><tspan baseline-shift="sub" font-size="2.646">50,51</tspan></text>
+<rect x="28.0" y="24.0" width="12" height="12" fill="#eef5fa" stroke="#25496b" stroke-width="0.35"/>
+<text x="34.0" y="31.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">f</tspan><tspan baseline-shift="sub" font-size="2.646">0,49</tspan></text>
+<rect x="69.0" y="24.0" width="12" height="12" fill="#eef5fa" stroke="#25496b" stroke-width="0.35"/>
+<text x="75.0" y="31.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">f</tspan><tspan baseline-shift="sub" font-size="2.646">1,50</tspan></text>
+<rect x="110.0" y="24.0" width="12" height="12" fill="#eef5fa" stroke="#25496b" stroke-width="0.35"/>
+<text x="116.0" y="31.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">f</tspan><tspan baseline-shift="sub" font-size="2.646">2,51</tspan></text>
+<circle cx="34" cy="16" r="4.5" fill="white" stroke="#25496b" stroke-width="0.35"/>
+<text x="34" y="17.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">T</tspan><tspan baseline-shift="sub" font-size="2.646">0</tspan></text>
+<circle cx="75" cy="16" r="4.5" fill="white" stroke="#25496b" stroke-width="0.35"/>
+<text x="75" y="17.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">T</tspan><tspan baseline-shift="sub" font-size="2.646">1</tspan></text>
+<circle cx="116" cy="16" r="4.5" fill="white" stroke="#25496b" stroke-width="0.35"/>
+<text x="116" y="17.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">T</tspan><tspan baseline-shift="sub" font-size="2.646">2</tspan></text>
+<circle cx="34" cy="44" r="4.5" fill="white" stroke="#25496b" stroke-width="0.35"/>
+<text x="34" y="45.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">T</tspan><tspan baseline-shift="sub" font-size="2.646">49</tspan></text>
+<circle cx="75" cy="44" r="4.5" fill="white" stroke="#25496b" stroke-width="0.35"/>
+<text x="75" y="45.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">T</tspan><tspan baseline-shift="sub" font-size="2.646">50</tspan></text>
+<circle cx="116" cy="44" r="4.5" fill="white" stroke="#25496b" stroke-width="0.35"/>
+<text x="116" y="45.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#202b36"><tspan font-style="italic">T</tspan><tspan baseline-shift="sub" font-size="2.646">51</tspan></text>
+<rect x="4.0" y="10.0" width="12" height="12" fill="#fff3e8" stroke="#a7571a" stroke-width="0.35"/>
+<text x="10" y="17.2" text-anchor="middle" font-family="Times New Roman,serif" font-size="3.704" fill="#a7571a"><tspan font-style="italic">f</tspan><tspan baseline-shift="sub" font-size="2.646">P</tspan></text>
+<text x="10" y="28.2" text-anchor="middle" font-family="SimSun,宋体,serif" font-size="3.704" fill="#a7571a">先验因子</text>
+<text x="75" y="6.2" text-anchor="middle" font-family="SimSun,宋体,serif" font-size="3.704" fill="#202b36">相邻位姿约束</text>
+<text x="133" y="29.2" text-anchor="middle" font-family="SimSun,宋体,serif" font-size="3.704" fill="#202b36">非相邻</text>
+<text x="133" y="34.2" text-anchor="middle" font-family="SimSun,宋体,serif" font-size="3.704" fill="#202b36">位姿约束</text>
+<circle cx="8" cy="58" r="2" fill="white" stroke="#25496b" stroke-width="0.35"/>
+<text x="12" y="59.2" text-anchor="start" font-family="SimSun,宋体,serif" font-size="3.704" fill="#202b36">位姿变量（Pose3）</text>
+<rect x="60.0" y="56.0" width="4" height="4" fill="#eef5fa" stroke="#25496b" stroke-width="0.35"/>
+<text x="66" y="59.2" text-anchor="start" font-family="SimSun,宋体,serif" font-size="3.704" fill="#202b36">相对位姿因子</text>
+<rect x="111.0" y="56.0" width="4" height="4" fill="#fff3e8" stroke="#a7571a" stroke-width="0.35"/>
+<text x="117" y="59.2" text-anchor="start" font-family="SimSun,宋体,serif" font-size="3.704" fill="#202b36">先验因子</text>
+<text x="71" y="69.2" text-anchor="middle" font-family="SimSun,宋体,serif" font-size="3.704" fill="#202b36">仅展示部分变量与约束；完整模型包含2500个变量和9800个因子</text>
+</svg>
