@@ -1,0 +1,14 @@
+# Python 本地缓存与虚拟环境
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# 示例的重新运行结果；用于教学展示的 results 目录保留在仓库中
+因子图优化/**/outputs/
+.gtsam-runtime/
+
+# 系统与编辑器临时文件
+.DS_Store
+Thumbs.db
+~$*

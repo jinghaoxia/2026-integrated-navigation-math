@@ -1,0 +1,11 @@
+{
+  "poses": 2500,
+  "relative_factors": 9799,
+  "total_factors": 9800,
+  "initial_objective": 4780720471.481447,
+  "final_objective": 63789.07892761097,
+  "iterations": 5,
+  "elapsed_seconds": 0.4108812999984366,
+  "anchor_translation_shift_m": 6.571807238623261e-25,
+  "dataset_sha256": "be8dbad53b43695bfa3246add2f92307c3d7340fc5a5641a6f3e46e3e7d0fc61"
+}

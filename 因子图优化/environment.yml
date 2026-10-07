@@ -1,0 +1,8 @@
+name: gtsam-graph-demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - gtsam=4.3.0
+  - numpy
+  - matplotlib-base
